@@ -1,4 +1,4 @@
-# AngularModule
+# angular-module
 
 ### Practice of creating multiple modules in Angular application.
 
