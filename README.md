@@ -1,27 +1,15 @@
 # AngularModule
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+### Practice of creating multiple modules in Angular application.
 
-## Development server
+In this project have two module: main and module for about-page.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![module1](https://user-images.githubusercontent.com/58369971/111069602-7bcf8f00-84d6-11eb-9eaf-58d9be4a9485.png)
 
-## Code scaffolding
+Also the practice of routing, creating your own simple directive - which changes the color of the text and pipe - that adds '!!!' to the title.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![module2](https://user-images.githubusercontent.com/58369971/111069604-7c682580-84d6-11eb-9995-23b91d1dcca2.png)
 
-## Build
+Implementation of lazy loading in Angular to optimize the application. PreloadingStrategy is used in this project.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![module3](https://user-images.githubusercontent.com/58369971/111069697-eda7d880-84d6-11eb-8911-f3ac63e20a8b.png)
